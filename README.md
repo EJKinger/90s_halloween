@@ -22,6 +22,7 @@
  - Clone repo
  - Setup floobits
  - Within the root directory, `bower install`
+ - Make your changes (construct your awesome Halloween site!!)
  - Submit pull request by 7:45pm PST
 
 ## How This Works
