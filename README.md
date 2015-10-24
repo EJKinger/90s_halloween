@@ -26,8 +26,9 @@
  - Submit pull request by 7:45pm PST
 
 ## How This Works
-> This website is an example of what you are going to be building.  Don't feel constrained by my theme, your only goal is to build something Halloween related that uses at least one of the required technologies (backbone, jquery or underscore).  The winning team will be chosen by popular vote and will receive some awesome Hack Reactor stickers!!
+> This website is an example of what you are going to be building.  Don't feel constrained by my theme, your only goal is to build something Halloween related that uses at least one of the required technologies (backbone, jquery or coffeescript).  The winning team will be chosen by popular vote and will receive some awesome Hack Reactor stickers!!
 
 ## Criteria
  - Site must be PG-13
  - Must submit pull request on time
+ - Must use at least backbone, jquery or coffeescript
