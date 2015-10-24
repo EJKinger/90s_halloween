@@ -1,0 +1,16 @@
+body {
+    background-image: url("background.gif");
+    background-repeat: repeat;
+}
+
+h1 {
+  color: red;
+  font-family: 'Creepster', cursive;
+  font-size: 5em;
+}
+
+p {
+  color: red;
+  font-family: 'Creepster', cursive;
+  font-size: 3em;
+}
