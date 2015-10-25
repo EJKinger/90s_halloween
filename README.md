@@ -32,4 +32,4 @@
  - Must submit pull request on time
  - Must use at least backbone, jquery or coffeescript
  - Must have a Halloween theme!
- - Winner's selected by popular vote
+ - Winners selected by popular vote
