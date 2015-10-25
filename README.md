@@ -28,6 +28,8 @@
 > This website is an example of what you are going to be building.  Don't feel constrained by my theme, your only goal is to build something Halloween related that uses at least one of the required technologies (backbone, jquery or coffeescript).  The winning team will be chosen by popular vote and will receive some awesome Hack Reactor stickers!!
 
 ## Criteria
- - Site must be PG-13
+ - Must be PG-13
  - Must submit pull request on time
  - Must use at least backbone, jquery or coffeescript
+ - Must have a Halloween theme!
+ - Winner's selected by popular vote
