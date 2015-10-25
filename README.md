@@ -14,8 +14,7 @@
 ## Requirements
 - backbone
 - jquery
-- underscore
-
+- coffeescript
 
 ## Getting Started
  - Fork the repo
